@@ -1,0 +1,29 @@
+{
+  "name": "rut-helper",
+  "version": "0.0.3",
+  "description": "funciones para manipular RUT chilenos",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsc --build",
+    "clean": "tsc --build --clean",
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "author": "manuel hernandez",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahbarahona/rut-helper.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/mahbarahona/rut-helper/issues"
+  },
+  "homepage": "https://github.com/mahbarahona/rut-helper#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.20",
+    "jest": "^26.6.3",
+    "ts-jest": "^26.5.3",
+    "typescript": "^4.2.3"
+  }
+}
