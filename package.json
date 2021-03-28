@@ -1,6 +1,6 @@
 {
   "name": "rut-helper",
-  "version": "0.0.3",
+  "version": "0.0.11",
   "description": "funciones para manipular RUT chilenos",
   "main": "src/index.ts",
   "scripts": {

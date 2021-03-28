@@ -126,7 +126,7 @@ Devuelve el digito verificador que corresponde al Rut entregado
 const { getValidDV } = require("rut-helper");
 
 const rutUsuario = "12345678"; //sin digito verificador
-const validDv = getValidDV(rutUsuario); //Output: 2
+const validDv = getValidDV(rutUsuario); //Output: 5
 ```
 
 ### getRutFormato
