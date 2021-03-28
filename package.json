@@ -15,7 +15,10 @@
     "type": "git",
     "url": "git+https://github.com/mahbarahona/rut-helper.git"
   },
-  "keywords": [],
+  "keywords": [
+    "rut",
+    "rut chilenos"
+  ],
   "bugs": {
     "url": "https://github.com/mahbarahona/rut-helper/issues"
   },
